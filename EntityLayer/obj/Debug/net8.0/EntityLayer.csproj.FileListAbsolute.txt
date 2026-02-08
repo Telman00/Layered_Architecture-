@@ -1,0 +1,12 @@
+/workspaces/Layered_Architecture-/EntityLayer/bin/Debug/net8.0/EntityLayer.deps.json
+/workspaces/Layered_Architecture-/EntityLayer/bin/Debug/net8.0/EntityLayer.dll
+/workspaces/Layered_Architecture-/EntityLayer/bin/Debug/net8.0/EntityLayer.pdb
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/EntityLayer.AssemblyInfoInputs.cache
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/EntityLayer.AssemblyInfo.cs
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/EntityLayer.csproj.CoreCompileInputs.cache
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/EntityLayer.sourcelink.json
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/EntityLayer.dll
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/refint/EntityLayer.dll
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/EntityLayer.pdb
+/workspaces/Layered_Architecture-/EntityLayer/obj/Debug/net8.0/ref/EntityLayer.dll

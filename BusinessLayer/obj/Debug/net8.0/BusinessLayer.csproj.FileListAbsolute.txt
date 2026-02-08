@@ -1,0 +1,12 @@
+/workspaces/Layered_Architecture-/BusinessLayer/bin/Debug/net8.0/BusinessLayer.deps.json
+/workspaces/Layered_Architecture-/BusinessLayer/bin/Debug/net8.0/BusinessLayer.dll
+/workspaces/Layered_Architecture-/BusinessLayer/bin/Debug/net8.0/BusinessLayer.pdb
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/BusinessLayer.AssemblyInfoInputs.cache
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/BusinessLayer.AssemblyInfo.cs
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/BusinessLayer.csproj.CoreCompileInputs.cache
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/BusinessLayer.sourcelink.json
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/BusinessLayer.dll
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/refint/BusinessLayer.dll
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/BusinessLayer.pdb
+/workspaces/Layered_Architecture-/BusinessLayer/obj/Debug/net8.0/ref/BusinessLayer.dll

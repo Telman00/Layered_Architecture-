@@ -1,0 +1,12 @@
+/workspaces/Layered_Architecture-/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.deps.json
+/workspaces/Layered_Architecture-/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/workspaces/Layered_Architecture-/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfoInputs.cache
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfo.cs
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.sourcelink.json
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.dll
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/refint/DataAccessLayer.dll
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
+/workspaces/Layered_Architecture-/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll

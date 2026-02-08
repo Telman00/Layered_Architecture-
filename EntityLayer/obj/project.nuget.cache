@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/nubgpPRCF8=",
+  "dgSpecHash": "wlYi3kz1vXE=",
   "success": true,
-  "projectFilePath": "D:\\VS-Code\\c#_ders\\OOP_Entity_Layer\\EntityLayer\\EntityLayer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/Layered_Architecture-/EntityLayer/EntityLayer.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
