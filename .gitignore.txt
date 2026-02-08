@@ -1,0 +1,12 @@
+# Build nəticələri
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# Log faylları
+*.log
+
+# Environment faylları (şəxsi məlumatlar)
+.env
